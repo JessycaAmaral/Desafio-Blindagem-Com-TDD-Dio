@@ -1,4 +1,4 @@
-# desafio Blindagem código com TDD Dio..
+# Desafio Blindagem  de código com TDD Dio..
 
 Aplicação console com métodos de uma calculadora e testes utilizando XUnit:
 
